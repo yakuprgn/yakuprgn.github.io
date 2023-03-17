@@ -1,0 +1,50 @@
+body {
+	width: 750px;
+	margin: 0 auto;
+}
+
+table {
+	border-collapse: collapse;
+	border: 1px solid black;
+	margin: 20px;
+}
+
+thead {
+	background-color: yellow;
+}
+
+th, td {
+	border: 1px solid black;
+	padding: .2em 1em .2em .5em;
+	text-align: left;
+	vertical-align: middle;
+}
+
+tbody tr:nth-child(even), tfoot{
+	background-color: yellow;
+}
+
+.modifie-caption {
+	background-color: rgb(255, 255, 255);
+	font-weight: bold;
+	vertical-align: top;
+}
+
+.right {
+	text-align: right;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.center {
+	text-align: center;
+}
+
+.modifie {
+	font-weight: bold;
+	font-size: 40px;
+	text-align: center;
+}
+
