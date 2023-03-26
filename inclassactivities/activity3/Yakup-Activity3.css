@@ -1,0 +1,58 @@
+.advertisement {
+	width: 100px;
+	height: 150px;
+	color: black;
+	background-color: gray; 
+	position: absolute;
+	font-weight: bold;
+  	left: 2%;
+  	top: 0.8%;
+}
+
+.content {
+	width: 70%;
+	margin: 0 auto;
+}
+
+.content .image {
+	float: left;
+	padding-right: 1%;
+	padding-bottom: 1%;
+	margin-left: -10%;
+}
+
+.content .image img {
+	width: 250px;
+}
+
+.main {
+	margin-top: 2.5%;
+	font-size: larger;
+	margin-left: -10%;
+}
+
+.head{
+	margin-top: 10%;
+	margin-bottom: 4%;
+	justify-content: center;
+	display: flex;
+}
+
+.header {
+	align-items: center;
+	display: flex;
+}
+
+.header .logo img {
+	margin-left: 35%;
+
+}
+
+.logo {
+	margin-right: 1%;
+}
+
+.title{
+	margin-left: 13%;
+}
+
