@@ -1,0 +1,73 @@
+
+.background {
+	background-image: linear-gradient(to right, #8360c3, #2ebf91);
+}
+
+.navigator {
+	font-family: "candara";
+	color: white;
+	font-size: 35px;
+	position: static;
+	font-weight: bold;
+  	left: 8%;
+  	top: 17%;
+}
+
+.text-fadeIn {
+	font-family: "candara";
+	font-size: 25px;
+}
+
+.text {
+	font-family: "candara";
+	font-size: 25px;
+}
+
+.myburgerhomepage {
+	font-family: "lucida sans";
+	font-size: 50px;
+	color: bisque;
+	left: 160px;
+	top: 60px;
+	position: absolute;
+}
+
+.contact-us-box {
+    max-width: 200px;
+	text-align: left;
+    
+}
+
+.contact-us-box input[type=text],
+.contact-us-box input[type=email] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 15px;
+    border: 2px solid #d6a7a7;
+    border-radius: 8px;
+}
+
+.contact-us-box textarea {
+    width: 100%;
+    padding: 5px;
+    border: 2px solid #d6a7a7;
+    margin-top: 15px;
+	border-radius: 8px;
+}
+
+.contact-us-box input[type=submit] {
+    width: 60%;
+    padding: 5px 15px;
+    color: #f7f3f3;
+	background-color: #202020;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+#error-name {
+    color: rgb(223, 70, 70);
+}
+
+#error-surname {
+    color: rgb(223, 70, 70);
+}
