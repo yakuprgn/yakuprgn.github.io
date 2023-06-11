@@ -1,0 +1,32 @@
+.background {
+	background-image: linear-gradient(to right, #8360c3, #2ebf91);
+}
+
+.navigator {
+	font-family: "candara";
+	color: white;
+	font-size: 35px;
+	position: static;
+	font-weight: bold;
+  	left: 8%;
+  	top: 17%;
+}
+
+.homepage {
+	font-family: "candara";
+	font-size: 25px;
+}
+
+.text {
+	font-family: "candara";
+	font-size: 25px;
+}
+
+.myburgerhomepage {
+	font-family: "lucida sans";
+	font-size: 50px;
+	color: bisque;
+	left: 160px;
+	top: 60px;
+	position: absolute;
+}
